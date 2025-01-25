@@ -1,0 +1,6 @@
+port: 8080
+endpoint: api
+host: localhost
+user: postgres
+password: 200112
+schema: test
