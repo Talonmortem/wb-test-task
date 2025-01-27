@@ -4,7 +4,7 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/Talonmortem/wb-test-task1/internal/postgres"
+	"github.com/Talonmortem/wb-test-task/internal/postgres"
 	"github.com/gin-gonic/gin"
 )
 
